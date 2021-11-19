@@ -1,0 +1,251 @@
+.home_navbar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: sticky;
+  top: 0;
+  cursor: pointer;
+  /* margin: 0;
+  padding: 0; */
+}
+
+.home_navbar_background {
+  background: black;
+  background-blend-mode: darken;
+  background-size: cover;
+  padding-left: 310px;
+}
+
+.home_text-bigger {
+  font-family: "Brush Script MT", cursive;
+  font-weight: bolder;
+  font-size: 110px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 90%;
+  margin: auto;
+  animation: text-bigger 2s ease-out;
+  /* margin: 0;
+  padding: 0; */
+}
+
+@keyframes home_text-bigger {
+  0% {
+    transform: translateX(200%);
+  }
+  100% {
+    transform: translateX(0%);
+  }
+}
+
+.home_subtitle-home {
+  font-family: Copperplate, Papyrus, fantasy;
+  font-weight: bold;
+  font-size: 40px;
+  width: 70%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 90%;
+  margin: auto;
+  /* margin: 0;
+  padding: 0; */
+  animation: subtitle-home 1.5s ease-out;
+}
+
+@keyframes home_subtitle-home {
+  0% {
+    transform: translateY(200%);
+  }
+  100% {
+    transform: translateY(0%);
+  }
+}
+.home_nav-list {
+  width: 70%;
+  display: flex;
+  align-items: center;
+  /* margin: 0;
+  padding: 0; */
+}
+
+.home_logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* margin: 0;
+  padding: 0; */
+}
+
+.home_logo img {
+  width: 180px;
+  border-radius: 50px;
+  /* margin: 0;
+  padding: 0; */
+}
+
+.home_nav-list li {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 15px;
+  padding: 8px 20px;
+  /* margin: 0;
+  padding: 0; */
+}
+
+.home_nav-list li a {
+  text-decoration: none;
+  color: white;
+  /* margin: 0;
+  padding: 0; */
+}
+
+.home_nav-list li a:hover {
+  color: grey;
+  /* margin: 0;
+  padding: 0; */
+}
+
+.home_firstsection {
+  background: linear-gradient(to right, #fbc7d4, #9796f0);
+  height: 550px;
+  /* margin: 0;
+  padding: 0; */
+}
+
+.home_secondsection {
+  background: linear-gradient(to right, #9796f0, #fbc7d4);
+  height: 550px;
+  /* margin: 0;
+  padding: 0; */
+}
+.home_faqsection {
+  background: linear-gradient(to right, #fbc7d4, #9796f0);
+  height: 2400px;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  /* margin: 0;
+  padding: 0; */
+}
+.home_box-main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+  max-width: 80%;
+  margin: auto;
+  height: 80%;
+  /* margin: 0;
+  padding: 0; */
+}
+
+.home_firsthalf {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  /* margin: 0;
+  padding: 0; */
+}
+
+.home_secondhalf {
+  width: 50%;
+  /* margin: 0;
+  padding: 0; */
+}
+
+.home_secondhalf_img {
+  width: 70%;
+  border: 4px solid white;
+  border-radius: 150px;
+  display: block;
+  margin: auto;
+  /* margin: 0;
+  padding: 0; */
+}
+
+.home_text-big {
+  font: italic small-caps bold 15px georgia;
+  font-weight: normal;
+  font-size: 43px;
+  /* margin: 0;
+  padding: 0; */
+}
+
+.home_text-small {
+  font-size: 30px;
+  font-family: cursive;
+  /* margin: 0;
+  padding: 0; */
+}
+
+.home_btn {
+  padding: 8px 20px;
+  margin: 7px 0;
+  border: 2px solid white;
+  border-radius: 8px;
+  background: none;
+  color: white;
+  cursor: pointer;
+  /* margin: 0;
+  padding: 0; */
+}
+
+.home_btn-sm {
+  padding: 6px 10px;
+  vertical-align: middle;
+  /* margin: 0;
+  padding: 0; */
+}
+
+.home_section {
+  height: 550px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 100%;
+  margin: auto;
+  background: linear-gradient(to right, #9796f0, #fbc7d4);
+  /* margin: 0;
+  padding: 0; */
+}
+
+.home_section-Left {
+  flex-direction: row-reverse;
+  /* margin: 0;
+  padding: 0; */
+}
+
+.home_paras {
+  padding: 0px 65px;
+  /* margin: 0;
+  padding: 0; */
+}
+
+.home_thumbnail img {
+  width: 250px;
+  border: 2px solid black;
+  border-radius: 26px;
+  margin-top: 19px;
+  /* margin: 0;
+  padding: 0; */
+}
+
+.home_center {
+  text-align: center;
+  /* margin: 0;
+  padding: 0; */
+}
+
+.home_text-footer {
+  text-align: center;
+  padding: 30px 0;
+  font-family: "Ubuntu", sans-serif;
+  display: flex;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  /* margin: 0;
+  padding: 0; */
+}

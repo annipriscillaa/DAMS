@@ -1,0 +1,534 @@
+.set_body {
+  zoom: 85%;
+}
+
+.settings_main_box {
+  width: 630px;
+  height: 800px;
+  position: absolute;
+  top: 1500px;
+  bottom: 1400px;
+  right: 0px;
+  left: 0px;
+  background-color: white;
+  margin: auto;
+  border: 3px solid #000000;
+  border-radius: 10px;
+}
+
+.set_title {
+  height: 40px;
+  position: absolute;
+  top: 75px;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+  text-transform: uppercase;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  letter-spacing: 2.5px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 28px;
+  line-height: 40px;
+}
+
+.set_id_icon {
+  top: 16px;
+  bottom: 0px;
+  left: 22px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+}
+
+.set_id_icon_image {
+  top: 136px;
+  bottom: 0px;
+  left: 22px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+}
+
+.set_reset_button1 {
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  background-color: #28afeedc;
+  border: 4px line #000000;
+  position: relative;
+  padding: 12px;
+  float: left;
+  text-align: left;
+  border-radius: 10px;
+  right: 0px;
+  left: 0px;
+}
+.set_reset_button_container1 {
+  width: 400px;
+  height: 46px;
+  position: absolute;
+
+  border-radius: 15px;
+  top: 150px;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.set_symbol1 {
+  width: 1px;
+  height: 1px;
+  position: absolute;
+  top: 153px;
+  bottom: 0px;
+  right: 0px;
+  left: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: Oxygen;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 40px;
+}
+
+.set_appear_icon {
+  top: 70px;
+  bottom: 0px;
+  left: 20px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+}
+
+.set_appear_icon_image {
+  top: 159px;
+  bottom: 0px;
+  left: 20px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+}
+
+.set_reset_button_container2 {
+  width: 400px;
+  height: 45px;
+  position: absolute;
+  top: 225px;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.set_reset_button2 {
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  background-color: #28afeedc;
+  border: 4px line #000000;
+  border-radius: 10px;
+  text-align: left;
+  right: 0px;
+  left: 0px;
+}
+
+.set_symbol2 {
+  width: 1px;
+  height: 1px;
+  position: absolute;
+  top: 225px;
+  bottom: 0px;
+  right: 0px;
+  left: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: Oxygen;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 40px;
+}
+
+.set_help_icon {
+  top: 120px;
+  bottom: 0px;
+  left: 22px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+}
+
+.set_help_icon_image {
+  top: 185px;
+  bottom: 0px;
+  left: 22px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+}
+.set_reset_button_container3 {
+  width: 400px;
+  height: 45px;
+  position: absolute;
+  top: 300px;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.set_reset_button3 {
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  background-color: #28afeedc;
+  border: 4px line #000000;
+  border-radius: 10px;
+  text-align: left;
+}
+
+.set_symbol3 {
+  width: 1px;
+  height: 1px;
+  position: absolute;
+  top: 303px;
+  bottom: 0px;
+  right: 0px;
+  left: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: Oxygen;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 40px;
+}
+
+.set_about_icon {
+  top: 175px;
+  bottom: 0px;
+  left: 22px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+}
+
+.set_about_icon_image {
+  top: 206px;
+  bottom: 0px;
+  left: 22px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+}
+
+.set_reset_button_container4 {
+  width: 400px;
+  height: 45px;
+  position: absolute;
+  top: 375px;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.set_reset_button4 {
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  float: left;
+  text-align: left;
+  background-color: #28afeedc;
+  border: 4px line #000000;
+  border-radius: 10px;
+}
+
+.set_symbol4 {
+  width: 1px;
+  height: 1px;
+  position: absolute;
+  top: 378px;
+  bottom: 0px;
+  right: 0px;
+  left: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: Oxygen;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 40px;
+}
+
+.set_act_icon {
+  top: 320px;
+  bottom: 0px;
+  left: 22px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+}
+
+.set_act_icon_image {
+  top: 136px;
+  bottom: 0px;
+  left: 22px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+}
+
+.set_reset_button5 {
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  background-color: #28afeedc;
+  border: 4px line #000000;
+  position: relative;
+  padding: 12px;
+  float: left;
+  text-align: left;
+  border-radius: 10px;
+  right: 0px;
+  left: 0px;
+}
+.set_reset_button_container5 {
+  width: 400px;
+  height: 46px;
+  position: absolute;
+
+  border-radius: 15px;
+  top: 450px;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.set_symbol5 {
+  width: 1px;
+  height: 1px;
+  position: absolute;
+  top: 455px;
+  bottom: 0px;
+  right: 0px;
+  left: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: Oxygen;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 40px;
+}
+
+.set_not_icon {
+  top: 370px;
+  bottom: 0px;
+  left: 20px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+}
+
+.set_not_icon_image {
+  top: 159px;
+  bottom: 0px;
+  left: 20px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+}
+
+.set_reset_button_container6 {
+  width: 400px;
+  height: 45px;
+  position: absolute;
+  top: 525px;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.set_reset_button6 {
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  background-color: #28afeedc;
+  border: 4px line #000000;
+  border-radius: 10px;
+  text-align: left;
+  right: 0px;
+  left: 0px;
+}
+
+.set_symbol6 {
+  width: 1px;
+  height: 1px;
+  position: absolute;
+  top: 530px;
+  bottom: 0px;
+  right: 0px;
+  left: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: Oxygen;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 40px;
+}
+
+.set_invite_icon {
+  top: 370px;
+  bottom: 0px;
+  left: 20px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+}
+
+.set_invite_icon_image {
+  top: 235px;
+  bottom: 0px;
+  left: 20px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+}
+
+.set_reset_button_container7 {
+  width: 400px;
+  height: 45px;
+  position: absolute;
+  top: 600px;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.set_reset_button7 {
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  background-color: #28afeedc;
+  border: 4px line #000000;
+  border-radius: 10px;
+  text-align: left;
+  right: 0px;
+  left: 0px;
+}
+
+.set_symbol7 {
+  width: 1px;
+  height: 1px;
+  position: absolute;
+  top: 600px;
+  bottom: 0px;
+  right: 0px;
+  left: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: Oxygen;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 40px;
+}
+
+.set_logout_icon {
+  top: 438px;
+  bottom: 0px;
+  left: 20px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+}
+
+.set_logout_icon_image {
+  top: 235px;
+  bottom: 0px;
+  left: 20px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+}
+
+.set_reset_button_container8 {
+  width: 400px;
+  height: 45px;
+  position: absolute;
+  top: 670px;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.set_reset_button8 {
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  background-color: #28afeedc;
+  border: 4px line #000000;
+  border-radius: 10px;
+  text-align: left;
+  right: 0px;
+  left: 0px;
+}
+
+.set_symbol8 {
+  width: 1px;
+  height: 1px;
+  position: absolute;
+  top: 675px;
+  bottom: 0px;
+  right: 0px;
+  left: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: Oxygen;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 40px;
+}

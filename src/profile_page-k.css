@@ -1,0 +1,132 @@
+.pp_main {
+  zoom: 85%;
+}
+/* profile page*/
+.pp_photo {
+  height: 150px;
+  margin: auto;
+  width: 150px;
+  position: relative;
+  border: 2px solid #053742;
+  border-radius: 50%;
+  background-size: 150px;
+  /* background-image: url(./icons/user.png); */
+}
+
+.pp_container {
+  display: block;
+  max-width: 700px;
+  padding: 50px;
+  margin: auto;
+  border: #053742 solid 3px;
+  border-radius: 7px;
+  background-color: white;
+}
+
+.pp_label_photo {
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+
+.pp_Heading {
+  text-align: center;
+  text-transform: uppercase;
+  background: #053742;
+  color: white;
+  padding-left: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 50px;
+  border: 3px solid black;
+  border-radius: 7px;
+  display: block;
+  margin: auto;
+  max-width: 700px;
+  letter-spacing: 0.115em;
+}
+
+.pp_inputfield {
+  padding: 7px;
+  width: 100%;
+  display: block;
+  border-radius: 5px;
+  border: 2px solid #e8f0f2;
+  background: white;
+}
+
+.pp_Edit {
+  display: block;
+  background-color: #053742;
+  color: white;
+  float: centre;
+  text-transform: uppercase;
+  width: 15%;
+  padding: 5px;
+  margin: auto;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  opacity: 0.9;
+}
+
+.pp_box {
+  border: #053742 solid 3px;
+  border-radius: 7px;
+  padding: 50px;
+  margin: auto;
+}
+
+.pp_Update {
+  background-color: #053742;
+  color: white;
+  float: centre;
+  width: 50%;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  opacity: 0.9;
+  display: block;
+  text-align: center;
+  margin: auto;
+  text-transform: uppercase;
+}
+
+.pp_input_field_photo {
+  position: absolute;
+  bottom: 0;
+  align-items: center;
+  padding-left: 32px;
+  outline: none;
+  color: transparent;
+}
+
+.pp_input_field_photo::-webkit-file-upload-button {
+  visibility: hidden;
+}
+
+.pp_icon {
+  height: 45px;
+  width: 45px;
+  position: absolute;
+  top: 9px;
+  bottom: 0px;
+  left: 0px;
+  right: 225px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.pp_icon_1 {
+  height: 155px;
+  width: 155px;
+  position: absolute;
+  top: -3px;
+  bottom: 0px;
+  left: 0px;
+  right: 220px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* profile page*/

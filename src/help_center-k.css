@@ -1,0 +1,55 @@
+/*help-page*/
+
+.hc_container {
+  font-family: oxygen;
+  display: block;
+  max-width: 700px;
+  padding: 50px;
+  margin: auto;
+}
+.hc_Heading {
+  font-family: oxygen;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.115em;
+  background: #053742;
+  color: white;
+  padding-left: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 50px;
+  border: 3px solid black;
+  border-radius: 7px;
+  display: block;
+  margin: auto;
+  max-width: 700px;
+}
+.hc_content {
+  font-family: oxygen;
+  text-transform: uppercase;
+  text-align: center;
+  text-decoration-line: underline;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0.115em;
+  font-style: normal;
+}
+.hc_border {
+  border: #053742 solid 3px;
+  border-radius: 7px;
+  background-color: white;
+}
+.hc_questions {
+  text-align: left;
+}
+.hc_icon {
+  height: 45px;
+  width: 45px;
+  position: absolute;
+  top: 9px;
+  bottom: 0px;
+  left: 0px;
+  right: 325px;
+}
+
+/*help-page*/

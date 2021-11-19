@@ -1,0 +1,161 @@
+.rp_body {
+  background-color: #a2dbfa;
+  zoom: 85%;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+
+.rp_main_box {
+  background-color: white;
+  width: 565px;
+  height: 700px;
+  position: absolute;
+  top: 0px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin: auto;
+  /* border: 3px solid #000000; */
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+
+.rp_key_icon {
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 70px;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.rp_reset_pwd_title {
+  width: 277px;
+  height: 35px;
+  position: absolute;
+  top: 180px;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: Oxygen;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 28px;
+  line-height: 35px;
+}
+
+.rp_new_pwd_field {
+  width: 471px;
+  height: 30px;
+  position: absolute;
+  top: 335px;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.rp_new_pwd_text {
+  width: 180px;
+  height: 30px;
+  font-family: Oxygen;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 30px;
+  float: left;
+}
+
+.rp_new_pwd_textbox {
+  width: 250px;
+  height: 30px;
+  float: right;
+}
+
+.rp_np_box {
+  height: 100%;
+  width: 100%;
+  border-style: none;
+  border-bottom: 3px solid #000000;
+}
+
+.rp_conf_pwd_field {
+  width: 471px;
+  height: 30px;
+  position: absolute;
+  top: 455px;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.rp_conf_pwd_text {
+  width: 218px;
+  height: 30px;
+  font-family: Oxygen;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 30px;
+  float: left;
+}
+
+.rp_conf_pwd_textbox {
+  width: 245px;
+  height: 30px;
+  float: right;
+}
+
+.rp_c_box {
+  height: 100%;
+  width: 100%;
+  border-style: none;
+  border-bottom: 3px solid #000000;
+}
+
+.rp_reset_button_container {
+  width: 107px;
+  height: 45px;
+  position: absolute;
+  top: 575px;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.rp_reset_button {
+  width: 100%;
+  height: 100%;
+  font-family: Oxygen;
+  font-style: normal;
+  font-size: 24px;
+  background-color: #62e06e;
+  border: 4px solid #000000;
+  border-radius: 10px;
+  opacity: 60%;
+}
+
+.rp_inside_button {
+  width: 100%;
+  height: 100%;
+  font-family: Oxygen;
+  font-style: normal;
+  font-size: 24px;
+  text-decoration: none;
+  color: #000000;
+}
+
+.rp_reset_button:hover {
+  opacity: 100%;
+}

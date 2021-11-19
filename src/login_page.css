@@ -1,0 +1,80 @@
+/* html,
+body,
+.container {
+  height: 100%;
+  min-height: 100%;
+} */
+body {
+  /* background: #53cde2; */
+}
+.icon_den {
+  height: 75px;
+  width: 75px;
+}
+.head {
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.role {
+  font-size: 22px;
+  font-weight: bold;
+  letter-spacing: 1.5px;
+}
+.first {
+  float: left;
+  width: 200px;
+  height: 300px;
+  margin-left: 100px;
+  background-color: #ffffff;
+  border: 3px solid #000000;
+  border-radius: 10px;
+}
+
+.first_text {
+  font-size: 25px;
+  letter-spacing: 2px;
+  font-weight: 50%;
+}
+
+.third {
+  float: right;
+  width: 200px;
+  height: 300px;
+  margin-right: 100px;
+  background-color: white;
+  border: 3px solid #000000;
+  border-radius: 10px;
+}
+
+.third_text {
+  font-size: 25px;
+  letter-spacing: 1.5px;
+  color: #ffffff;
+}
+
+.login_main_box {
+  width: 740px;
+  height: 640px;
+  position: absolute;
+  top: 950px;
+  bottom: 1000px;
+  right: 0px;
+  background-color: #ffffff;
+  left: 0px;
+  margin: auto;
+  box-shadow: 30px 30px 0px rgba(3, 13, 68, 0.2);
+  border: 3px solid #000000;
+  border-radius: 15px;
+}
+
+.login_body {
+  zoom: 85%;
+}
+.no-account-yet {
+  font-size: 19px;
+}
+
+.no-account-yet2 {
+  font-size: 18px;
+  color: blue;
+}

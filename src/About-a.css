@@ -1,0 +1,80 @@
+/*help-page*/
+
+.about_container {
+  font-family: oxygen;
+  display: block;
+  max-width: 700px;
+  padding: 50px;
+  margin: auto;
+}
+.about_Heading {
+  font-family: oxygen;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.115em;
+  background: #053742;
+  color: white;
+  padding-left: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 50px;
+  border: 3px solid black;
+  border-radius: 7px;
+  display: block;
+  margin: auto;
+  max-width: 700px;
+}
+.about_content {
+  text-transform: uppercase;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  text-align: center;
+  background-color: white;
+  letter-spacing: 0.115em;
+  font-style: normal;
+}
+
+.about_border {
+  border: #053742 solid 3px;
+  border-radius: 7px;
+  background: #053742;
+  color: white;
+}
+
+.about_icon {
+  height: 45px;
+  width: 45px;
+  position: absolute;
+  top: 9px;
+  bottom: 0px;
+  left: 0px;
+  right: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+a {
+  color: white;
+}
+
+/* mouse over link */
+a:hover {
+  color: yellow;
+}
+.about_questions {
+  font-family: oxygen;
+  text-align: left;
+  text-transform: uppercase;
+  letter-spacing: 0.115em;
+  background: #053742;
+  color: white;
+  padding-left: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 50px;
+  font-size: small;
+  display: block;
+  margin: auto;
+  max-width: 700px;
+}
+/*help-page*/

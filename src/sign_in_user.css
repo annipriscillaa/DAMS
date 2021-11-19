@@ -1,0 +1,169 @@
+.signIn_body {
+  zoom: 85%;
+}
+/* body,
+.container {
+  height: 100%;
+  min-height: 100%;
+} */
+
+.signIn_main_box {
+  width: 900px;
+  height: 700px;
+  position: absolute;
+  top: 980px;
+  bottom: 1000px;
+  right: 0px;
+  background-color: #ffffff;
+  left: 0px;
+  margin: auto;
+  box-shadow: 30px 30px 0px rgba(3, 13, 68, 0.2);
+  border: 3px solid #000000;
+  border-radius: 15px;
+}
+
+.userid {
+  height: 55px;
+  position: absolute;
+  top: 248px;
+  bottom: 0px;
+  left: 99px;
+  right: 0px;
+  margin-left: auto;
+  margin-right: auto;
+
+  font-style: normal;
+  font-weight: bold;
+  font-size: 28px;
+  line-height: 35px;
+}
+
+.userid_box {
+  width: 370px;
+  height: 30px;
+  position: absolute;
+  top: 237px;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+  margin-left: 400px;
+  margin-right: auto;
+  border: 3px solid #ffffff;
+}
+
+.password_box2 {
+  width: 370px;
+  height: 30px;
+  position: absolute;
+  top: 317px;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+  margin-left: 400px;
+  margin-right: auto;
+  border: 3px solid #ffffff;
+}
+
+.pass2 {
+  height: 55px;
+  position: absolute;
+  top: 328px;
+  bottom: 0px;
+  left: 208px;
+  right: 0px;
+  margin-left: auto;
+  margin-right: auto;
+
+  font-style: normal;
+  font-weight: bold;
+  font-size: 28px;
+  line-height: 35px;
+}
+
+.remeberMe {
+  position: absolute;
+  top: 400px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-left: auto;
+  margin-right: auto;
+
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 35px;
+}
+
+.login_button {
+  width: 200px;
+  height: 50px;
+  position: absolute;
+  top: 450px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-left: auto;
+  margin-right: auto;
+
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 35px;
+  background-color: #3db2ff;
+  border-radius: 12px;
+  color: #ffffff;
+}
+
+.forgot_password {
+  position: absolute;
+  top: 525px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  color: #0275d8;
+}
+.donthave {
+  position: absolute;
+  top: 575px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 20px;
+}
+.signup {
+  position: absolute;
+  top: 550px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 20px;
+}
+.signin {
+  position: absolute;
+  top: 50px;
+  bottom: 0px;
+  left: 0px;
+  text-transform: uppercase;
+  right: 0px;
+  margin-left: auto;
+  margin-right: auto;
+}
+a {
+  color: #0275d8;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+}
+a:hover {
+  color: teal;
+}

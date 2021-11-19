@@ -1,0 +1,66 @@
+/*notification_page*/
+.not_content {
+  font-size: 20px;
+  text-align: center;
+
+  font-style: normal;
+}
+
+.not_Heading {
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.115em;
+  background: #053742;
+  color: white;
+  padding-left: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 50px;
+  border: 3px solid black;
+  border-radius: 7px;
+  display: block;
+  margin: auto;
+  max-width: 700px;
+}
+
+.not_para {
+  font-size: 20px;
+  text-align: center;
+  font-style: normal;
+}
+
+.not_border {
+  border: #053742 solid 3px;
+  border-radius: 7px;
+  background: #053742;
+  color: white;
+  display: block;
+  max-width: 500px;
+  margin: auto;
+}
+
+.not_group {
+  display: block;
+  margin: auto;
+  float: center;
+  width: 150px;
+}
+
+.not_icon {
+  height: 45px;
+  width: 45px;
+  position: absolute;
+  top: 9px;
+  bottom: 0px;
+  left: 0px;
+  right: 350px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+input[type="checkbox"] {
+  width: auto;
+  height: auto;
+}
+
+/*notification_page*/

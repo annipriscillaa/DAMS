@@ -1,0 +1,62 @@
+.apg_main {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  margin: auto;
+}
+
+.apg_title {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  top: 0px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.apg_main_table {
+  border: 3px solid black;
+  border-radius: 10px;
+  width: 700px;
+  height: 500px;
+  text-align: center;
+  top: 100px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-right: auto;
+  margin-left: auto;
+  position: absolute;
+}
+
+.apg_row {
+  padding: 20px;
+}
+
+.apg_table_head_cont {
+  height: 50px;
+}
+
+.apg_table_cont {
+  border-radius: 15px;
+  border: 2px solid #fe8f8f;
+}
+
+.apg_d_btn_acc {
+  height: 30px;
+  width: 100px;
+  background-color: #79d70f;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.apg_d_btn_dec {
+  height: 30px;
+  width: 100px;
+  background-color: #ef4f4f;
+  border-radius: 10px;
+  cursor: pointer;
+}

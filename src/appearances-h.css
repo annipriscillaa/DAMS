@@ -1,0 +1,163 @@
+.apr_body {
+  background-color: #a2dbfa;
+  zoom: 85%;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+
+.apr_main_box {
+  background-color: white;
+  width: 565px;
+  height: 578px;
+  position: absolute;
+  top: 0px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin: auto;
+  /* border: 3px solid #000000; */
+  border-radius: 10px;
+}
+
+.apr_main_icon {
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 70px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.apr_main_title {
+  width: 208px;
+  height: 40px;
+  position: absolute;
+  top: 125px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: Oxygen;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+}
+
+.apr_sub_title {
+  width: 395px;
+  height: 35px;
+  position: absolute;
+  top: 205px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: Oxygen;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 28px;
+}
+
+.apr_theme {
+  width: 307px;
+  height: 65px;
+  position: absolute;
+  top: 313px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.apr_theme_text {
+  width: 78px;
+  height: 30px;
+  position: absolute;
+  top: 17px;
+  float: left;
+  font-family: Oxygen;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 30px;
+}
+
+.apr_dark_button {
+  width: 85px;
+  height: 65px;
+  border-radius: 35px 0px 0px 35px;
+  border: 3px solid #000000;
+  float: right;
+}
+
+.apr_light_button {
+  width: 85px;
+  height: 65px;
+  border-radius: 0px 35px 35px 0px;
+  border: 3px solid #000000;
+  float: right;
+}
+
+.apr_font {
+  width: 414px;
+  height: 65px;
+  position: absolute;
+  top: 444px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.apr_font_text {
+  width: 101px;
+  height: 30px;
+  padding-top: 18px;
+  float: left;
+  font-family: Oxygen;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 30px;
+}
+
+.apr_small_button {
+  width: 85px;
+  height: 65px;
+  border-radius: 0px 35px 35px 0px;
+  border: 3px solid #000000;
+  float: right;
+}
+
+.apr_medium_button {
+  width: 85px;
+  height: 65px;
+  border: 3px solid #000000;
+  float: right;
+}
+
+.apr_large_button {
+  width: 85px;
+  height: 65px;
+  border-radius: 35px 0px 0px 35px;
+  border: 3px solid #000000;
+  float: right;
+}
+
+.apr_small_button_image {
+  height: 30px;
+  width: 30px;
+}
+
+.apr_medium_button_image {
+  height: 40px;
+  width: 40px;
+}

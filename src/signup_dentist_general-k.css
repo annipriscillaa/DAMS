@@ -1,0 +1,112 @@
+.su_button {
+  display: block;
+  font-family:oxygen;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.115em;
+  background-color: #053742;
+  color: white;
+  float: centre;
+  width: 25%;
+  padding: 10px;
+  margin: auto;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  opacity: 0.9;
+}
+
+.su_button:hover {
+  opacity:1;
+}
+
+/*sigup-page*/
+
+.container_signup{
+  font-family: oxygen;
+  display:block;
+  max-width:700px ;
+  padding: 50px;
+  margin: auto;
+  border:#053742 solid 3px;
+  border-radius: 7px;
+}
+.signup_inputfield_{
+  font-family: oxygen;
+  padding: 7px;
+  width: 100%;
+  display: block;
+  border-radius: 5px;
+  border: 2px solid #E8F0F2 ;
+  background: white;
+}
+.signup_inputfield_radio{
+  padding: 2px;
+}
+
+.terms{
+  font-family: oxygen;
+  display: block;
+  max-width: 700px;
+  padding-top: 2px;
+  padding-right: 2px;
+  padding-left: 2px;
+  padding-bottom: 30px;
+}
+
+
+.signup_inputfield_photo{
+  font-family: oxygen;
+  position: absolute;
+  bottom: 0;
+  align-items: center;
+  padding-left: 32px;
+  outline: none;
+  color: transparent;
+}
+
+.signup_inputfield_photo::-webkit-file-upload-button{
+  visibility: hidden;
+}
+
+
+.label_photo{
+  font-family: oxygen;
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+
+.profile_photo{
+font-family: oxygen;
+height: 150px;
+margin: auto;
+width: 150px;
+position: relative;
+border: 2px solid #053742;
+border-radius: 50%;
+}
+
+.Heading_signup{
+  font-family: oxygen;
+  text-align: center;
+  text-transform: uppercase;
+  background: #053742;
+  color:white;
+  padding-left: 50px;
+  padding-top:10px ;
+  padding-bottom: 10px;
+  padding-right:50px ;
+  border: 3px solid white;
+  border-radius: 7px;
+  display: block;
+  margin: auto;
+  max-width: 700px;
+  letter-spacing: 0.115em;
+}
+
+input[type="radio"]{
+  width: auto;
+  height: auto;
+}
+/* sign-up page*/
